@@ -72,4 +72,12 @@
   body {
     @apply bg-background text-foreground;
   }
+
+  @font-face {
+    font-family: "Inter";
+    src:
+      local("Inter"),
+      local("inter"),
+      url("/fonts/inter/Inter-VariableFont_opsz,wght.tff") format("ttf");
+  }
 }
