@@ -7,5 +7,7 @@
 </script>
 
 <ParaglideJS {i18n}>
-  {@render children()}
+  <main class="h-screen w-screen">
+    {@render children()}
+  </main>
 </ParaglideJS>
