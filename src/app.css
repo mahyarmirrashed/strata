@@ -83,5 +83,5 @@
 }
 
 .nav-button {
-  @apply px-2 text-left text-lg hover:bg-[#acc];
+  @apply px-2 text-left text-lg uppercase hover:bg-[#acc];
 }
