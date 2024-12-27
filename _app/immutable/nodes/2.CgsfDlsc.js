@@ -1,1 +1,0 @@
-import{a as r,t as p}from"../chunks/disclose-version.C4AG-PDC.js";import{p as s,i as e,j as i,r as n}from"../chunks/runtime.CiSLNibW.js";import{s as l}from"../chunks/snippet.DLUScdO3.js";var u=p('<main class="mx-auto h-full max-w-md py-4"><!></main>');function h(t,o){s(o,!0);var a=u(),m=i(a);l(m,()=>o.children),n(a),r(t,a),e()}export{h as component};

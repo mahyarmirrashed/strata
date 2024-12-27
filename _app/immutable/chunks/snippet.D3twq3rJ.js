@@ -1,0 +1,1 @@
+import{b as o,E as f,k as i,n as p,l as c,h,e as d}from"./runtime.Cnh-EmCi.js";function E(r,s,...t){var n=r,e=p,a;o(()=>{e!==(e=s())&&(a&&(c(a),a=null),a=i(()=>e(n,...t)))},f),h&&(n=d)}export{E as s};

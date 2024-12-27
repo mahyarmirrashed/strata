@@ -1,0 +1,1 @@
+import{a as r,t as p}from"../chunks/disclose-version.BJDCZmGJ.js";import{p as s,i as e,j as i,r as n}from"../chunks/runtime.Cnh-EmCi.js";import{s as l}from"../chunks/snippet.D3twq3rJ.js";var u=p('<main class="mx-auto h-full max-w-md py-8"><!></main>');function h(t,o){s(o,!0);var a=u(),m=i(a);l(m,()=>o.children),n(a),r(t,a),e()}export{h as component};

@@ -1,0 +1,1 @@
+import{a as t,t as e}from"../chunks/disclose-version.BJDCZmGJ.js";import"../chunks/legacy.Criabmci.js";var n=e("<section>Load Game Page</section>");function i(o){var a=n();t(o,a)}export{i as component};

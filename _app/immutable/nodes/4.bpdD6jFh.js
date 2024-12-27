@@ -1,1 +1,0 @@
-import{a as t,t as e}from"../chunks/disclose-version.C4AG-PDC.js";import"../chunks/legacy.BQJ9_BJS.js";var n=e("<section>Load Game Page</section>");function i(o){var a=n();t(o,a)}export{i as component};
