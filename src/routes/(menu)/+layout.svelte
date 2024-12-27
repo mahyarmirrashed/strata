@@ -2,6 +2,6 @@
   let { children } = $props();
 </script>
 
-<main class="mx-auto h-full max-w-md py-4">
+<main class="mx-auto h-full max-w-md py-8">
   {@render children()}
 </main>
