@@ -81,3 +81,7 @@
       url("/fonts/inter/Inter-VariableFont_opsz,wght.tff") format("ttf");
   }
 }
+
+.nav-button {
+  @apply px-2 text-left text-lg hover:bg-[#acc];
+}
